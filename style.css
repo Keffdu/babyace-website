@@ -1,13 +1,14 @@
 body {
     background: rgb(204, 204, 153);
     font-weight: lighter;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 div {
     padding-top: 75px;
     margin: 1em;
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
+    
 }
 
 p img {
