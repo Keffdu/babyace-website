@@ -1,6 +1,20 @@
 body {
     background: rgb(204, 204, 153);
+    font-weight: lighter;
 }
+
+div {
+    padding-top: 75px;
+    margin: 1em;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p img {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 
 body h1 {
     text-align: center;
@@ -10,9 +24,3 @@ body script {
     text-align: center;
 }
 
-body img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
