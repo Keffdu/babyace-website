@@ -1,0 +1,14 @@
+body {
+    background: rgb(204, 204, 153);
+}
+
+body h1 {
+    text-align: center;
+}
+
+body img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
