@@ -6,6 +6,10 @@ body h1 {
     text-align: center;
 }
 
+body script {
+    text-align: center;
+}
+
 body img {
     display: block;
     margin-left: auto;
